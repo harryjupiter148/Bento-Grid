@@ -7,6 +7,7 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learnt](#what-i-learnt)
@@ -25,6 +26,10 @@ Users should be able to:
 
 ![Desktop View](./assets/images/grid-main.png)
 ![Mobile View](./assets/images/grid-main-respo.jpeg)
+
+### Link
+
+- Live Site URL: [Bento Grid](https://harryjupiter148.github.io/Bento-Grid/)
 
 ## My process
 
