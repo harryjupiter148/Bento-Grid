@@ -69,7 +69,7 @@ main section {
 
 ### Continued development
 
-The `grid` property is something I would like to look into soon, as there are other properties associated with it. Playing around with it was fun, especially the `grid-template-areas` property, where I had to manipulate certain selectors to placements of my choice. This wouldn't have been possible without the `grid-area` property I learnt along with the others.
+The `grid` property is something I would like to go deeper into soon, as there are other properties associated with it. Playing around with it was fun, especially the `grid-template-areas` property, where I had to manipulate certain selectors to placements of my choice. This wouldn't have been possible without the `grid-area` property I learnt along with the others.
 
 ## Author
 
